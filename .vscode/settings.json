@@ -1,7 +1,6 @@
 {
-"python.pythonPath": " /Users/tstakuma/anaconda3/envs/pythonenv"
-// Folders in your home directory to look into for virtual environments.
-"python.venvFolders": [
-    "pythonenv"
- ]
-} 
+    "python.pythonPath": "/new/path/to/python",
+    "python.venvFolders": [
+        "pythonenv"
+    ]
+}
